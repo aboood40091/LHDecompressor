@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# Others
+*.arc
+*.arc.LH
